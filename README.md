@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+프로젝트|일자|링크
+------|---|---
+딥러닝생성|7월|[네이버](www.naver.com)
+딥러닝분류|8월|[구글](www.google.com)
+
+
+
+
 <!--
 **tlsdmswn01/Tlsdmswn01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
