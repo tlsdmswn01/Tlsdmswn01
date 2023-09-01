@@ -1,12 +1,4 @@
-### Hi there 👋
-
-프로젝트|일자|링크
-------|---|---
-딥러닝생성|7월|[네이버](https://www.naver.com)
-딥러닝분류|8월|[구글](www.google.com)
-
-
-![cylinder](https://capsule-render.vercel.app/api?type=rounded&color=FFF8EB&text=Oooo_daon&fontColor=696969&fontAlignY=55&fontSize=60&height=150&animation=blinkingdesc=Welcome%20to%20my%20Github&descAlignY=70)
+![cylinder](https://capsule-render.vercel.app/api?type=rounded&color=FFF8EB&text=Oooo_daon&fontColor=323232&&fontAlignY=45&fontSize=60&height=150&animation=blinking&desc=Welcome%20to%20my%20Github&descAlignY=75)
 
 
 <!--
