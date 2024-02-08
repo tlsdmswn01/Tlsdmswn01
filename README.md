@@ -1,4 +1,3 @@
-![cylinder](https://capsule-render.vercel.app/api?type=rounded&color=FFF8EB&text=Oooo_daon&fontColor=323232&&fontAlignY=45&fontSize=60&height=150&animation=blinking&desc=Welcome%20to%20my%20Github&descAlignY=75)
 
 
 <!--
